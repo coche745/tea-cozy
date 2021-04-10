@@ -34,7 +34,7 @@ nav a {
 }
 
 .background {
-    background-image: url("./img-mission-background.jpg");
+    background-image: url("./Resources/img-mission-background.jpg");
     height: 700px;
     width: 1201px;
     margin: 0 auto;
@@ -68,7 +68,7 @@ figcaption {
 }
 
 .locations {
-    background-image: url("./img-locations-background.jpg");
+    background-image: url("./Resources/img-locations-background.jpg");
     height: 570px;
     width: 1200px;
     margin: 0 auto;
