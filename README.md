@@ -5,7 +5,7 @@
 + Setup
 + Status
 ## General Info
-I created this project as part of Codecademy's curriculum. It is a fictional tea shop where the best tea in the world can be found.
+I created this project as part of Codecademy's curriculum. It is website of a fictional tea shop where the best tea in the world can be found.
 ## Technologies
 + HTML
 + CSS
